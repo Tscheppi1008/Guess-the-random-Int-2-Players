@@ -1,0 +1,15 @@
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.csproj.AssemblyReference.cache
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.AssemblyInfoInputs.cache
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.AssemblyInfo.cs
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.csproj.CoreCompileInputs.cache
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/bin/Debug/net6.0/Random_WIN
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/bin/Debug/net6.0/Random_WIN.deps.json
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/bin/Debug/net6.0/Random_WIN.runtimeconfig.json
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/bin/Debug/net6.0/Random_WIN.dll
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/bin/Debug/net6.0/Random_WIN.pdb
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.dll
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/refint/Random_WIN.dll
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.pdb
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/Random_WIN.genruntimeconfig.cache
+/Users/mtscheplak/Projects/Random_WIN/Random_WIN/obj/Debug/net6.0/ref/Random_WIN.dll
